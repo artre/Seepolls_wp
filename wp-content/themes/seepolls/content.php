@@ -34,5 +34,5 @@
 
 	<footer class="entry-footer">
 		<?php seepolls_entry_footer(); ?>
-	</footer><!-- .entry-footer -->
+	</footer><!-- .entry-footer. -->
 </article><!-- #post-## -->

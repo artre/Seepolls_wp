@@ -1,0 +1,48 @@
+/*
+Theme Name: seepolls
+Theme URI: ...
+Author: Artem Kovalyk
+Author URI: http://artemkovalyk.com
+Description: Description
+Version: 1.0
+License: ...
+License URI: ...
+Text Domain: seepolls
+Tags:
+*/
+/*--------------------------------------------------------------
+>>> TABLE OF CONTENTS:
+----------------------------------------------------------------
+1.0 Reset
+2.0 Typography
+3.0 Elements
+4.0 Forms
+5.0 Navigation
+	5.1 Links
+	5.2 Menus
+6.0 Accessibility
+7.0 Alignments
+8.0 Clearings
+9.0 Widgets
+10.0 Content
+	10.1 Posts and pages
+	10.2 Asides
+	10.3 Comments
+11.0 Infinite scroll
+12.0 Media
+	12.1 Captions
+	12.2 Gallerieszzzz
+--------------------------------------------------------------*/
+/*--------------------------------------------------------------
+1.0 Reset
+--------------------------------------------------------------*/
+div {
+  margin: 0 auto;
+  border: none; }
+  div:hover {
+    background-color: red; }
+  div a {
+    text-decoration: underline; }
+
+section {
+  color: white; }
